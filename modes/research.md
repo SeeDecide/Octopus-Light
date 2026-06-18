@@ -1,0 +1,5 @@
+# Mód RESEARCH
+
+- **Kdy nastupuje:** Pro rozhodnutí a podklady s velkým dosahem nebo nevratností a pro explorace, kde dodaný kontext nestačí a podstatná část závěrů by jinak stála na nedohledaných předpokladech. Na rozdíl od ostatních dvou módů **potřebuje přístup k webu nebo externím zdrojům**; když ho hostitelský nástroj nemá, RESEARCH degraduje na THINK a pracuje s tím, co je dodáno — to nevadí.
+- **Jak běží:** Prostřední část běží jako deliberace stejné mechaniky jako THINK, ale **s aktivním dohledáváním** — v každém kole podle potřeby hledá nové informace. Stojí-li podstatná část závěrů na ověřitelných předpokladech, deliberace se zastaví a vloží diagnostické mezikolo, které dohledá, co lze dohledat, a teprve pak pokračuje s ověřenými daty. Kol je víc než u THINK. Objemný vstup se zpracuje odděleně přes pomocného agenta v izolovaném kontextu, který vrací jen destilát — ochrana hlavního pracovního vlákna.
+- **Výsledek:** Rozhodnutí nebo strategický podklad opřený o aktivně dohledané a ověřené informace, prošlý závěrečným testem účelu.

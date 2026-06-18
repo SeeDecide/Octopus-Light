@@ -1,0 +1,5 @@
+# Mód THINK
+
+- **Kdy nastupuje:** Pro rozhodnutí, analýzy a komplexnější práci, kde konfrontace více úhlů pohledu prokazatelně zvedne kvalitu výstupu — variantní analýza, rozhodovací podklad, práce dotýkající se více provázaných částí, nebo změna se zvýšeným rizikem nevratnosti. Pracuje s tím, co už je k dispozici, bez hledání nových externích zdrojů.
+- **Jak běží:** Prostřední část běží jako deliberace v uzavřeném informačním prostoru ve třech fázích — perspektivy (role generují nezávisle) → reakce (role se navzájem slyší a reagují) → syntéza. Počet kol je proměnný: výchozí běh zhruba tři kola, divergentní profil přidá kolo navíc a rozšiřuje prostor řešení, konvergentní profil tlačí víc reakčními koly ke sblížení a uzávěru. Zapojuje nosné analytické a perspektivní kompetence doplněné kritickými (konstruktivní a kritický pohled jako komplementární pár); hloubka před šířkou — méně rolí ve vyšší kvalitě. Řetězec se ukončí, jakmile dvě role po sobě nepřinesou nový obsah.
+- **Výsledek:** Rozhodnutí nebo analýza vzniklá konvergencí více perspektiv, prošlá závěrečným testem účelu.
